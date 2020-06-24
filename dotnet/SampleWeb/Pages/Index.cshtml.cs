@@ -11,6 +11,7 @@ namespace SampleWeb.Pages
     {
         public void OnGet()
         {
+            
 
         }
     }
